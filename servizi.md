@@ -5,20 +5,26 @@
 4. [E-Commerce](#4-e-commerce)
 5. [Email Marketing](#5-email-marketing)
 
+
+
 ### 1. Gestione Task
 - [Basecamp](https://basecamp.com) *(la nostra scelta)*
 - [Wrike](https://wrike.com)
 - [Asana](https://asana.com)
+
 **Motivazione:**
 Nonostante la UI non sia la migliore, a livello di UX è la più intuitiva e diretta
+
 
 ### 2. Drive
 - Google Drive *(la nostra scelta)*
 - [Dropbox](https://dropbox.com)
 - [Mega.nz](https://mega.nz)
 - [pCloud](https://www.pcloud.com/)
+
 **Motivazione:**
 Google Workspace offre molti servizi utili rispetto agli altri competitor
+
 
 ### 3. CMS
 - [Sanity CMS](https://www.sanity.io/) *(la nostra scelta)*
@@ -27,8 +33,10 @@ Google Workspace offre molti servizi utili rispetto agli altri competitor
 - [ReactBricks](https://reactbricks.com/)
 - [Builder.io](https://www.builder.io/)
 - [Prismic](https://prismic.io/)
+
 **Motivazione:**
 Sanity è minimale, intuitivo, molto semplice da implementare e personalizzare
+
 
 ### 4. E-Commerce
 - [Shopify](https://www.shopify.com/) *(la nostra scelta)*
@@ -38,8 +46,10 @@ Sanity è minimale, intuitivo, molto semplice da implementare e personalizzare
 - [Swell.is](https://www.swell.is/)
 - [SnipCart](https://snipcart.com/)
 - [ECWID](https://www.ecwid.com/)
+
 **Motivazione:**
 Shopify è estremamente facile da usare sia per noi che per i clienti, inoltre si integra bene con Sanity.
+
 
 ### 5. Email Marketing
 - [ActiveCampaign](https://www.activecampaign.com/) *(la nostra scelta)*
@@ -47,5 +57,6 @@ Shopify è estremamente facile da usare sia per noi che per i clienti, inoltre s
 - [MailJet](https://www.mailjet.com/) 
 - [MailerLite](https://www.mailerlite.com/)
 - [Brevo](https://www.brevo.com/products/marketing-platform/)
+
 **Motivazione:**
 In base alle necessità del cliente e del progetto, Klaviyo è perfetto per e-commerce mentre ActiveCampaign è per progetti più specifici
